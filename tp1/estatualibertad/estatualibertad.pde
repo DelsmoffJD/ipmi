@@ -8,9 +8,9 @@ void draw(){
  background(#2C6990);
  image(img,0,0,400,400);
  fill(0);
- textSize(35);
- text(mouseX + " - " + mouseY, mouseX, mouseY);
- println(mouseX + " - " + mouseY);
+ //textSize(35);
+ //text(mouseX + " - " + mouseY, mouseX, mouseY);
+ //println(mouseX + " - " + mouseY);
  
  //line art
  
